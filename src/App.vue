@@ -31,7 +31,7 @@
         <p class="col-12 col-md-7 fs-5 px-3">
           <strong>Coliseo</strong> es una interesante variación del formato multijugador <strong>Commander</strong>, diseñada para brindar una experiencia 
           de juego más equilibrada y divertida. Su filosofía es que la mayor cantidad de mazos y estrategias tengan una oportunidad real de alcanzar ana victoria.
-          Eto se logra ajustando ciertas cartas clave como - <strong>Sol Ring</strong> y <strong>Thassa's Oracle</strong> — para limitar el dominio 
+          Esto se logra ajustando ciertas cartas clave como - <strong>Sol Ring</strong> y <strong>Thassa's Oracle</strong> — para limitar el dominio 
           de los mazos que abusan de combos infinitos o aceleración excesiva para ganar la partida. Esto crea un entorno donde la interacción, creatividad y 
           variedad estratégica florecen. Ya sea que juegues con un mazo preconstruido o uno personalizado, en Coliseo tendrás la oportunidad de competir 
           en igualdad de condiciones y disfrutar de partidas dinámicas, intensas y cargadas de sorpresas.
@@ -109,7 +109,7 @@
   
         <div class="col-12 col-lg-9 d-flex justify-content-center flex-wrap">
           <div class="col-6 col-md-3 px-3">
-            <a href="https://manabox.app/decks/rg-uh4KUSY6EwM4Pp-vwgw" target="_blank">
+            <a href="https://manabox.app/decks/9Iyhj1atQ5q2ymIuLlC-cg" target="_blank">
               <button class="rounded lb-bg-secondary-l shadow-l border-0 p-2 fw-bold">
                 Prohibidas totalmente
               </button>
@@ -117,7 +117,7 @@
           </div>
 
           <div class="col-6 col-md-3 px-3">
-            <a href="https://manabox.app/decks/93ZwKsK8SaWY85X27xWeOQ" target="_blank">
+            <a href="https://manabox.app/decks/itAJx3JXS_2bQtUrdl9unA" target="_blank">
               <button class="rounded lb-bg-secondary-l shadow-l border-0 p-2 fw-bold">
                 Prohibidas como comandante
               </button>
